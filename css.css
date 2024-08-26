@@ -62,9 +62,10 @@ transform: scale(1);
 }
 
 body {
-    background-image: url('gtr.jpg');
+    background-image: url('papel\ de\ parede.jpg');
     background-size: cover;
     background-repeat: no-repeat;
     background-attachment: fixed;
 }
+
 
